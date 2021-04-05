@@ -57,4 +57,4 @@ Open the web application using the link https://mushtaqsafie.github.io/Restauran
 
 
 ## Application Screenshots
-![Screen Shot 2021-01-20 at 9 09 37 pm](https://user-images.githubusercontent.com/73917485/105160073-e8c44980-5b63-11eb-9526-6384cf1b0a71.png)
+![Screen Shot 2021-01-20 at 9 09 37 pm](https://raw.githubusercontent.com/MushtaqSafie/Restaurant-Otaku/main/Assets/images/screenshot.jpg)
