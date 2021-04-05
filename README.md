@@ -21,7 +21,7 @@ This project aims to create a seamless, easily navigable and handy web applicati
 
 ## Testing
 
-Open the web application using the link https://norbu-s.github.io/Covid-Safe-Restaurant/
+Open the web application using the link https://mushtaqsafie.github.io/Restaurant-Otaku/
 
 
 ## Links to resources
@@ -51,9 +51,9 @@ Open the web application using the link https://norbu-s.github.io/Covid-Safe-Res
 
 ## Project Links
 
-1. Project URL - https://norbu-s.github.io/Covid-Safe-Restaurant/
+1. Project URL - https://mushtaqsafie.github.io/Restaurant-Otaku/
 
-2. Github Repository - https://github.com/norbu-s/Covid-Safe-Restaurant
+2. Github Repository - https://github.com/MushtaqSafie/Restaurant-Otaku
 
 
 ## Application Screenshots
